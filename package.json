@@ -22,7 +22,9 @@
     "lint-staged": ">=10",
     "prettier": "^2.3.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "urijs": "^1.19.6"
+  },
   "lint-staged": {
     "*.{js,css,md}": "prettier --write",
     "*.js": "eslint --fix"
