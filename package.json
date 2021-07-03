@@ -1,14 +1,14 @@
 {
-  "name": "hep-template",
+  "name": "hermione-url-decorator",
   "version": "1.0.0",
-  "description": "Template repository with Husky & ESLint & Prettier",
-  "main": "index.js",
+  "description": "",
+  "main": "src/index.js",
   "scripts": {
     "prettify": "prettier src --write",
     "lint": "eslint src --fix",
     "prepare": "husky install"
   },
-  "repository": "https://github.com/vmik7/hep-template.git",
+  "repository": "https://github.com/vmik7/hermione-url-decorator.git",
   "author": "vmik7 <vmik7@yandex.ru>",
   "license": "MIT",
   "devDependencies": {

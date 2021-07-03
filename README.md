@@ -1,2 +1,3 @@
-# hep-template
-Template repository with Husky &amp; ESLint &amp; Prettier
+# hermione-url-decorator
+
+Decorates URL when hermione starts
